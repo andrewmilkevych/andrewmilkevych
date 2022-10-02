@@ -1,6 +1,9 @@
 ![Header](https://github.com/andrewmilkevych/andrewmilkevych/blob/main/Assets/header.gif)
 
-## I'm a beginner Software Engeneer
+## About me
+Hello, :U+1F44B: I am a beginner programmer. I decided to change my job and study programming. Here you can view my pet projects, but not all projects are here yet.
+Before that I used gitlab. I will organize my projects soon and move them here.
+I'll leave it here for now...
 
 ### Languages and Tools
 ![Csharp](https://img.shields.io/badge/-Csharp-grey?style=for-the-badge&logo=Csharp&logoColor=purple&labelColor=white)
