@@ -1,7 +1,7 @@
 ![Header](https://github.com/andrewmilkevych/andrewmilkevych/blob/main/Assets/header.gif)
 
 ## About me
-Hello, :U+1F44B: I am a beginner programmer. I decided to change my job and study programming. Here you can view my pet projects, but not all projects are here yet.
+Hello, 👋 I am a beginner programmer. I decided to change my job and study programming. Here you can view my pet projects, but not all projects are here yet.
 Before that I used gitlab. I will organize my projects soon and move them here.
 I'll leave it here for now...
 
