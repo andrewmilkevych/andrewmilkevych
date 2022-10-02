@@ -14,4 +14,9 @@
 ![UML](https://img.shields.io/badge/UML-gray?style=for-the-badge&logo=diagrams.net&labelColor=white)
 ![EFCORE](https://img.shields.io/badge/EFCORE-gray?style=for-the-badge&logo=.net&labelColor=purple)
 
-Follow me
+### Contact
+[![Telegram](https://img.shields.io/badge/Telegram-gray?style=for-the-badge&logo=Telegram)](https://t.me/andriimilkevych)
+[![Instagram](https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=Instagram)](https://www.instagram.com/andriimilkevych)
+[![Linkedin](https://img.shields.io/badge/Linkedin-gray?style=for-the-badge&logo=Linkedin&logoColor=007BB6)](https://www.linkedin.com/in/andrew-milkevych-4b2794250)
+[![Facebook](https://img.shields.io/badge/Facebook-gray?style=for-the-badge&logo=Facebook)](https://www.facebook.com/andriimilkevych/)
+[![Discord](https://img.shields.io/badge/Discord-gray?style=for-the-badge&logo=Discord)](https://discord.com/channels/@me/Andrii#8050)
